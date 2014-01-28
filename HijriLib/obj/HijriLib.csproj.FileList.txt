@@ -1,0 +1,5 @@
+bin\Release\HijriLib.dll
+bin\Release\HijriLib.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\HijriLib.dll
+obj\Release\HijriLib.pdb
